@@ -39,7 +39,23 @@ This is a chatbot application with a **Frontend** and a **Backend**. The **Front
      ```bash
      npm run dev
 
-4. **Run the Backend File Locally:**
+
+### Setting Up the Backend
+
+1. **Navigate to the Frontend Folder:**
+   - Open your terminal/command prompt.
+   - Go to the `backend` folder inside your project directory:
+     ```bash
+     cd chatbot/backend
+     ```
+
+2. **Install the Frontend Dependencies:**
+   - Run the following command to install the necessary libraries:
+     ```bash
+     npm install
+     ```
+
+3. **Run the Backend File Locally:**
    - Run the following command and second terminal to start the backend server:
      ```bash
      node server.js
