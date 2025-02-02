@@ -34,3 +34,8 @@ This is a chatbot application with a **Frontend** and a **Backend**. The **Front
    - After the installation, run the following command to start the development server:
      ```bash
      npm run dev
+
+4. **Run the Backend File Locally:**
+   - Run the following command and second terminal to start the backend server:
+     ```bash
+     node server.js
