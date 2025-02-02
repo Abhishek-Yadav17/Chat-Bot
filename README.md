@@ -1,5 +1,3 @@
-# React + Vite
-
 # Chatbot Project
 
 This is a chatbot application with a **Frontend** and a **Backend**. The **Frontend** is built using **React** and **Vite**, and the **Backend** is built using **Node.js**.
