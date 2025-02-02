@@ -13,7 +13,7 @@ This is a chatbot application with a **Frontend** and a **Backend**. The **Front
 
 2. Make sure you have a **GitHub** account if you plan to push the project to GitHub.
 
-3. Make sure you have a .env file with the environment variables:
+3. Make sure you have a .env file in backend folder with the environment variables:
     - EMAIL_USER=youremail@gmail.com
     - EMAIL_PASS=app password
 
